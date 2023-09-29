@@ -35,8 +35,7 @@ pip install numpy pandas scikit-learn joblib matplotlib seaborn
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/CodeClauseInternship/CodeClauseInternship_WineQualityPrediction.git
-```
+git clone (https://github.com/Akhilesh2921/CodeClauseInternship_WineQualityPrediction/tree/main)
 
 2. Navigate to the project directory:
 
